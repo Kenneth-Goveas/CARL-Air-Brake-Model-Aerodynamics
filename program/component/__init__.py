@@ -3,3 +3,4 @@ from .shoulder import Shoulder
 from .boattail import Boattail
 from .tube import Tube
 from .base import Base
+from .fins import Fins
