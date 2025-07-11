@@ -1,0 +1,9 @@
+# Aerodynamic models
+/models/*
+!/models/example.json
+
+# Python cache
+__pycache__/
+
+# Vim swap files
+*.swp
